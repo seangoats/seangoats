@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **React and Node**
 
 - 👯 I’m looking to collaborate on **Full-stack or Data Science projects**
 
