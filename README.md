@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Node**
 
-- 👯 I’m looking to collaborate on **Full-stack or Data Science projects**
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
 - 📫 How to reach me **seangohck@gmail.com**
 
