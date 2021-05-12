@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" />
-</p>
-
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **React and Node**
