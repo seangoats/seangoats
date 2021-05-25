@@ -23,7 +23,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seangoats&show_icons=true&theme=dracula&locale=en" alt="seangoats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seangoats&show_icons=true&theme=dracula&locale=en&count_private=true" alt="seangoats" /></p>
 
 
 ![Profile views](https://gpvc.arturio.dev/seangoats) 
